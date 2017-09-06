@@ -3,11 +3,12 @@
   <groupId>com.mserver.db</groupId>
   <artifactId>mserverDbSupport</artifactId>
   <versioning>
-    <release>0.0.1-product</release>
+    <release>0.0.2-product</release>
     <versions>
       <version>0.0.1-test</version>
       <version>0.0.1-product</version>
+      <version>0.0.2-product</version>
     </versions>
-    <lastUpdated>20170905014219</lastUpdated>
+    <lastUpdated>20170906141251</lastUpdated>
   </versioning>
 </metadata>
