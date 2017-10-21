@@ -3,7 +3,7 @@
   <groupId>com.mserver.db</groupId>
   <artifactId>mserverDbSupport</artifactId>
   <versioning>
-    <release>0.0.8-product</release>
+    <release>0.0.9-product</release>
     <versions>
       <version>0.0.1-test</version>
       <version>0.0.1-product</version>
@@ -14,7 +14,8 @@
       <version>0.0.6-product</version>
       <version>0.0.7-product</version>
       <version>0.0.8-product</version>
+      <version>0.0.9-product</version>
     </versions>
-    <lastUpdated>20171012152456</lastUpdated>
+    <lastUpdated>20171021045138</lastUpdated>
   </versioning>
 </metadata>
