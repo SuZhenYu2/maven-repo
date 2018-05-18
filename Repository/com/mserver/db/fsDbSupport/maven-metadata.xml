@@ -3,7 +3,7 @@
   <groupId>com.mserver.db</groupId>
   <artifactId>fsDbSupport</artifactId>
   <versioning>
-    <release>0.0.5-shanghai</release>
+    <release>0.0.6-shanghai</release>
     <versions>
       <version>0.0.1-product</version>
       <version>0.0.1-test</version>
@@ -11,7 +11,8 @@
       <version>0.0.3-product</version>
       <version>0.0.4-shanghai</version>
       <version>0.0.5-shanghai</version>
+      <version>0.0.6-shanghai</version>
     </versions>
-    <lastUpdated>20180511143923</lastUpdated>
+    <lastUpdated>20180518091643</lastUpdated>
   </versioning>
 </metadata>
